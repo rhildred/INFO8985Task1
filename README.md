@@ -34,4 +34,4 @@ Select and implement tools to log from micro-front end UI to micro-services to m
 
 ## Submission
 
-Submit a .zip downloaded from your github. In the comments include a link to your github.
+Submit a .zip downloaded from your github. In the comments include a link to your github. Hope that this is fun!
